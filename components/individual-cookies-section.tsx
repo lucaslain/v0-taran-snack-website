@@ -7,31 +7,31 @@ export function IndividualCookiesSection() {
 
   const cookies = [
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv1-tLIBYJl55hnmI2URYEQEPGHY44eeuK.mp4",
+      video: "/images/indiv1.mp4",
       nameKey: "cookie1Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv2-FzH7vVtfzfcAWBeVhHZDyaDKpth5qQ.mp4",
+      video: "/images/indiv2.mp4",
       nameKey: "cookie2Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv3-g2FuZ3NL6nU4azDgyfYP8yG6Cem9Zs.mp4",
+      video: "/images/indiv3.mp4",
       nameKey: "cookie3Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv4-23UafcVRJAUWJEm5KWFxnIXwEee6Cc.mp4",
+      video: "/images/indiv4.mp4",
       nameKey: "cookie4Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv5-YzJnrc15Vanze59rWpFgEPHBNBMBxt.mp4",
+      video: "/images/indiv5.mp4",
       nameKey: "cookie5Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv6-pKURpgLbiGnmbkg4Syo3reedQ46gfv.mp4",
+      video: "/images/indiv6.mp4",
       nameKey: "cookie6Name" as const,
     },
     {
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/indiv7-HfSJjpduP9gQIgWor0BcL81c15GGt6.mp4",
+      video: "/images/indiv7.mp4",
       nameKey: "cookie7Name" as const,
     },
   ]

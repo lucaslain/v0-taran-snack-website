@@ -6,7 +6,6 @@ import { HeroSection } from "@/components/hero-section"
 import { StorySection } from "@/components/story-section"
 import { HeritageSection } from "@/components/heritage-section"
 import { ProductsSection } from "@/components/products-section"
-import { IndividualCookiesSection } from "@/components/individual-cookies-section"
 import { TestimonialSection } from "@/components/testimonial-section"
 import { Footer } from "@/components/footer"
 
@@ -19,7 +18,6 @@ export default function Home() {
         <StorySection />
         <HeritageSection />
         <ProductsSection />
-        <IndividualCookiesSection />
         <TestimonialSection />
         <Footer />
       </main>
