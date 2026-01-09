@@ -68,6 +68,14 @@ export const translations = {
     cookie6Name: "Biscuit Artisanal 6",
     cookie7Name: "Biscuit Artisanal 7",
 
+    // Gingerbread Section
+    ourGingerbread: "Nos Pains d'Épices",
+    gingerbreadTitle: "Pains d'Épices Décorés",
+    gingerbreadSubtitle: "Découvrez nos pains d'épices artisanaux, décorés à la main selon la tradition",
+    painsEp1Name: "Épisode 1",
+    painsEp2Name: "Épisode 2",
+    painsEp3Name: "Épisode 3",
+
     // Testimonial
     whatPeopleSay: "Ce Que Disent Nos Clients",
     testimonialQuote:
@@ -154,6 +162,14 @@ export const translations = {
     cookie6Name: "Handgemachter Keks 6",
     cookie7Name: "Handgemachter Keks 7",
 
+    // Gingerbread Section
+    ourGingerbread: "Unsere Lebkuchen",
+    gingerbreadTitle: "Dekorierte Lebkuchen",
+    gingerbreadSubtitle: "Entdecken Sie unsere handgefertigten Lebkuchen, nach Tradition handbemalt",
+    painsEp1Name: "Episode 1",
+    painsEp2Name: "Episode 2",
+    painsEp3Name: "Episode 3",
+
     // Testimonial
     whatPeopleSay: "Was unsere Kunden sagen",
     testimonialQuote:
@@ -238,6 +254,14 @@ export const translations = {
     cookie5Name: "Artisan Cookie 5",
     cookie6Name: "Artisan Cookie 6",
     cookie7Name: "Artisan Cookie 7",
+
+    // Gingerbread Section
+    ourGingerbread: "Our Gingerbread",
+    gingerbreadTitle: "Decorated Gingerbread",
+    gingerbreadSubtitle: "Discover our artisanal gingerbread, hand-decorated according to tradition",
+    painsEp1Name: "Episode 1",
+    painsEp2Name: "Episode 2",
+    painsEp3Name: "Episode 3",
 
     // Testimonial
     whatPeopleSay: "What People Say",

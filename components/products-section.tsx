@@ -17,7 +17,7 @@ export function ProductsSection() {
       nameKey: "gingerbreadCookies" as const,
       descKey: "gingerbreadCookiesDesc" as const,
       video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gingerbread-PfSCksLzlh2FPSBhd3fJAGfxQafL1I.mp4",
-      href: null,
+      href: "/gingerbread-cookies",
     },
     {
       nameKey: "cookieSets" as const,
