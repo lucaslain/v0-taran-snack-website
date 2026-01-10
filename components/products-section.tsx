@@ -22,8 +22,8 @@ export function ProductsSection() {
     {
       nameKey: "cookieSets" as const,
       descKey: "cookieSetsDesc" as const,
-      video: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/setofcookies-MTGx0Nsr4kvOdfL1Y8assUG9T0zKe3.mp4",
-      href: null,
+      video: "/images/set1.mp4",
+      href: "/cookie-sets",
     },
   ]
 

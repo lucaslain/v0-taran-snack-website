@@ -76,6 +76,14 @@ export const translations = {
     painsEp2Name: "Épisode 2",
     painsEp3Name: "Épisode 3",
 
+    // Cookie Sets Section
+    ourSets: "Nos Coffrets",
+    cookieSetsTitle: "Coffrets Gourmands",
+    cookieSetsSubtitle: "Découvrez nos assortiments artisanaux, parfaits pour offrir ou se faire plaisir",
+    set1Name: "Coffret 1",
+    set2Name: "Coffret 2",
+    set3Name: "Coffret 3",
+
     // Testimonial
     whatPeopleSay: "Ce Que Disent Nos Clients",
     testimonialQuote:
@@ -170,6 +178,14 @@ export const translations = {
     painsEp2Name: "Episode 2",
     painsEp3Name: "Episode 3",
 
+    // Cookie Sets Section
+    ourSets: "Unsere Geschenkboxen",
+    cookieSetsTitle: "Geschenkboxen",
+    cookieSetsSubtitle: "Entdecken Sie unsere handgefertigten Sortimente, perfekt zum Verschenken oder Geniessen",
+    set1Name: "Geschenkbox 1",
+    set2Name: "Geschenkbox 2",
+    set3Name: "Geschenkbox 3",
+
     // Testimonial
     whatPeopleSay: "Was unsere Kunden sagen",
     testimonialQuote:
@@ -262,6 +278,14 @@ export const translations = {
     painsEp1Name: "Episode 1",
     painsEp2Name: "Episode 2",
     painsEp3Name: "Episode 3",
+
+    // Cookie Sets Section
+    ourSets: "Our Sets",
+    cookieSetsTitle: "Gift Sets",
+    cookieSetsSubtitle: "Discover our handcrafted assortments, perfect for gifting or treating yourself",
+    set1Name: "Gift Set 1",
+    set2Name: "Gift Set 2",
+    set3Name: "Gift Set 3",
 
     // Testimonial
     whatPeopleSay: "What People Say",
