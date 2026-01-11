@@ -22,7 +22,7 @@ export function ProductsSection() {
     {
       nameKey: "cookieSets" as const,
       descKey: "cookieSetsDesc" as const,
-      video: "/images/set1.mp4",
+      video: "/images/cookie-sets.mp4",
       href: "/cookie-sets",
     },
   ]
